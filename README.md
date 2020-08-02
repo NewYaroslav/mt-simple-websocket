@@ -1,2 +1,2 @@
-# mt-simple-websocket-
+# mt-simple-websocket
 Библиотека websocket для MetaTrader
