@@ -1,0 +1,12 @@
+*code-blocks/*/obj/
+*code-blocks/*/*.dll
+*code-blocks/*/*.depend
+*code-blocks/*/*.layout
+*code-blocks/*/gmon.out
+*code-blocks/*/bin/*
+*code-blocks/*/logger/*
+*code-blocks/*/pch.h.gch/*
+*code-blocks/*/auth.json
+*code-blocks/*/*.cookie
+*code-blocks/*/*.exe
+

@@ -1,0 +1,9 @@
+[submodule "lib/curl-7.70.0-win32-mingw"]
+	path = lib/curl-7.70.0-win32-mingw
+	url = https://github.com/NewYaroslav/curl-7.70.0-win32-mingw.git
+[submodule "lib/openssl_win32"]
+	path = lib/openssl_win32
+	url = https://github.com/NewYaroslav/openssl_win32.git
+[submodule "lib/Simple-WebSocket-Server"]
+	path = lib/Simple-WebSocket-Server
+	url = https://gitlab.com/eidheim/Simple-WebSocket-Server.git
